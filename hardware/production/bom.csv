@@ -1,0 +1,22 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C12, C3, C4",0805,4,100nF,
+"C11, C2, C6",0805,3,10µF,
+"C5, C9",0805,2,1µF,
+D1,0805,1,RX_RD,
+D2,0805,1,TX_RD,
+D3,0805,1,PWR_GRN,
+D4,0805,1,TestLED,
+J1,PinSocket_2x04_P2.54mm_Vertical,1,UPLOAD_OUT,
+J2,PinHeader_2x04_P2.54mm_Vertical,1,Bootl/CodeUP,
+J3,PinHeader_1x03_P2.54mm_Vertical,1,TX_Jumper,
+J6,PinHeader_1x03_P2.54mm_Vertical,1,RST_Jumper,
+J4,PinHeader_1x03_P2.54mm_Vertical,1,RX_Jumper,
+J5,PinHeader_1x03_P2.54mm_Vertical,1,Reset_Jumper,
+J7,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_14P,
+"R1, R2",0805,2,5.1k,
+R4,0805,1,10k,
+"R5, R6, R7, R8",0805,4,1k,
+SW1,SW-SMD_4P-L6.2-W6.2-P4.50-LS8.6,1,LCSC: C2909692,C2909692
+U1,SOP-16_L10.0-W3.9-P1.27-LS6.0-BL,1,CH340C,C84681
+U2,TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL,1,ATMEGA328P-AU,C14877
+X1,OSC-SMD_3P-L3.2-W1.3-P1.20-L,1,CSTNE16M0V53Z000R0,C783275
